@@ -5,7 +5,7 @@ export function AppBar(){
     return <div className="flex justify-between items-center bg-transparent shadow-md mb-1">
         <div className="flex items-center">
             <div className=" fill: currentcolor; pt-3 pl-4">
-                <img src="ytlogo.svg" alt="Youtube Icon/Logo" />
+                <img src="/ytlogo.svg" alt="Youtube Logo" />
             </div>
             
         </div>
